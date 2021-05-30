@@ -1,0 +1,14 @@
+C:\Users\marco\source\repos\ColeccionQueu\bin\Debug\ColeccionQueu.exe.config
+C:\Users\marco\source\repos\ColeccionQueu\bin\Debug\ColeccionQueu.exe
+C:\Users\marco\source\repos\ColeccionQueu\bin\Debug\ColeccionQueu.pdb
+C:\Users\marco\source\repos\ColeccionQueu\obj\Debug\ColeccionQueu.csprojAssemblyReference.cache
+C:\Users\marco\source\repos\ColeccionQueu\obj\Debug\ColeccionQueu.csproj.CoreCompileInputs.cache
+C:\Users\marco\source\repos\ColeccionQueu\obj\Debug\ColeccionQueu.exe
+C:\Users\marco\source\repos\ColeccionQueu\obj\Debug\ColeccionQueu.pdb
+E:\Programas en C#\ColeccionQueu\bin\Debug\ColeccionQueu.exe.config
+E:\Programas en C#\ColeccionQueu\bin\Debug\ColeccionQueu.exe
+E:\Programas en C#\ColeccionQueu\bin\Debug\ColeccionQueu.pdb
+E:\Programas en C#\ColeccionQueu\obj\Debug\ColeccionQueu.csprojAssemblyReference.cache
+E:\Programas en C#\ColeccionQueu\obj\Debug\ColeccionQueu.csproj.CoreCompileInputs.cache
+E:\Programas en C#\ColeccionQueu\obj\Debug\ColeccionQueu.exe
+E:\Programas en C#\ColeccionQueu\obj\Debug\ColeccionQueu.pdb
